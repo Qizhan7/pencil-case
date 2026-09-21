@@ -38,5 +38,5 @@ python3 pencil-case/penwash/example.py           # → penwash/example.png
 ## 作者与许可
 
 作者：**盏 (Sienna Qi) & North**。
-许可：[PolyForm Noncommercial 1.0.0](LICENSE)——随便用、随便改、画着玩、发出去都行；商业用途要先取得书面许可。
+许可：[PolyForm Noncommercial 1.0.0](LICENSE)——对所有非商业用途开源，学、用、改、转发都可以；商业用途请先联系作者取得授权。
 版权 © 2026 Sienna Qi (戚盏)。
